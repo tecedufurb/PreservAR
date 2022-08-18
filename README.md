@@ -6,7 +6,7 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 Alunos:  
 
 - Computação: Bruno Ricardo Junkes, Hélio Potelicki e Igor Christofer Eisenhut  
-- Pedagogia: Nicoli Cristine Ruprecht, Raíssa Salache Santos e Melissa Fernanda Uller  
+- Pedagogia: Melissa Fernanda Uller, Nicoli Cristine Ruprecht e Raíssa Salache Santos  
 
 Assunto: Realidade Aumentada (RA): smartphone (ver mundo virtual sobre o real)  
 
