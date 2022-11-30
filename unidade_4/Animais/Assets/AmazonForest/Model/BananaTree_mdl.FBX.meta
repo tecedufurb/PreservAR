@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: e1296c4465be1834c988bdc836182b25
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bananas_Mdl
+    100002: //RootNode
+    100004: BananaTree_mdl
+    100006: BananaLeaf_mdl
+    100008: BananaLeaf_mdl_LOD0
+    100010: BananaLeaf_mdl_LOD1
+    100012: BananaLeaf_mdl_LOD2
+    100014: Bananas_Mdl_LOD0
+    100016: Bananas_Mdl_LOD1
+    100018: Bananas_Mdl_LOD2
+    100020: BananaTree_md_LOD1
+    100022: BananaTree_md_LOD2
+    100024: BananaTree_mdl_LOD0
+    100026: BananaFruit_mdl_LOD0
+    100028: BananaFruit_mdl_LOD1
+    100030: BananaFruit_mdl_LOD2
+    400000: Bananas_Mdl
+    400002: //RootNode
+    400004: BananaTree_mdl
+    400006: BananaLeaf_mdl
+    400008: BananaLeaf_mdl_LOD0
+    400010: BananaLeaf_mdl_LOD1
+    400012: BananaLeaf_mdl_LOD2
+    400014: Bananas_Mdl_LOD0
+    400016: Bananas_Mdl_LOD1
+    400018: Bananas_Mdl_LOD2
+    400020: BananaTree_md_LOD1
+    400022: BananaTree_md_LOD2
+    400024: BananaTree_mdl_LOD0
+    400026: BananaFruit_mdl_LOD0
+    400028: BananaFruit_mdl_LOD1
+    400030: BananaFruit_mdl_LOD2
+    2100000: 'Material #1'
+    2100002: 'Material #3'
+    2100004: 'Material #4'
+    2100006: 'Material #2'
+    2100008: 'Material #6'
+    2100010: 'Material #0'
+    2100012: 'Material #5'
+    2100014: 'Material #99'
+    2100016: Standardmaterial
+    2100018: 08 - Default
+    2300000: Bananas_Mdl
+    2300002: BananaTree_mdl
+    2300004: BananaLeaf_mdl
+    2300006: BananaLeaf_mdl_LOD0
+    2300008: BananaLeaf_mdl_LOD1
+    2300010: BananaLeaf_mdl_LOD2
+    2300012: Bananas_Mdl_LOD0
+    2300014: Bananas_Mdl_LOD1
+    2300016: Bananas_Mdl_LOD2
+    2300018: BananaTree_md_LOD1
+    2300020: BananaTree_md_LOD2
+    2300022: BananaTree_mdl_LOD0
+    2300024: BananaFruit_mdl_LOD0
+    2300026: BananaFruit_mdl_LOD1
+    2300028: BananaFruit_mdl_LOD2
+    3300000: Bananas_Mdl
+    3300002: BananaTree_mdl
+    3300004: BananaLeaf_mdl
+    3300006: BananaLeaf_mdl_LOD0
+    3300008: BananaLeaf_mdl_LOD1
+    3300010: BananaLeaf_mdl_LOD2
+    3300012: Bananas_Mdl_LOD0
+    3300014: Bananas_Mdl_LOD1
+    3300016: Bananas_Mdl_LOD2
+    3300018: BananaTree_md_LOD1
+    3300020: BananaTree_md_LOD2
+    3300022: BananaTree_mdl_LOD0
+    3300024: BananaFruit_mdl_LOD0
+    3300026: BananaFruit_mdl_LOD1
+    3300028: BananaFruit_mdl_LOD2
+    4300000: BananaTree_mdl
+    4300002: Bananas_Mdl
+    4300004: BananaLeaf_mdl
+    4300006: BananaTree_mdl_LOD0
+    4300008: Bananas_Mdl_LOD0
+    4300010: BananaLeaf_mdl_LOD0
+    4300012: BananaLeaf_mdl_LOD2
+    4300014: BananaTree_md_LOD1
+    4300016: Bananas_Mdl_LOD1
+    4300018: Bananas_Mdl_LOD2
+    4300020: BananaLeaf_mdl_LOD1
+    4300022: BananaTree_md_LOD2
+    4300024: BananaFruit_mdl_LOD0
+    4300026: BananaFruit_mdl_LOD1
+    4300028: BananaFruit_mdl_LOD2
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 120
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
