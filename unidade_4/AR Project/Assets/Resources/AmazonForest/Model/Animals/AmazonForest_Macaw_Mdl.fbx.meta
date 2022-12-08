@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: ef875bd14c6c6734195880e994f12966
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AmazonForest_Macaw_Mdl
+    100004: joint4
+    100006: joint5
+    100008: joint51
+    100010: joint52
+    100012: joint53
+    100014: joint54
+    100016: joint55
+    100018: joint56
+    100020: joint57
+    100022: joint58
+    100024: joint6
+    100026: Macaw_Body_Rig
+    100028: Macaw_LeftLeg_Rig
+    100030: Macaw_LeftLegA_Rig
+    100032: Macaw_LFingerA_Rig
+    100034: Macaw_LFingerAA_Rig
+    100036: Macaw_LFingerAAA_Rig
+    100038: Macaw_LFingerAAAA_Rig
+    100040: Macaw_LFingerAAAAA_Rig
+    100042: Macaw_LFingerB_Rig
+    100044: Macaw_LFingerBB_Rig
+    100046: Macaw_LFingerBBB_Rig
+    100048: Macaw_LFingerC_Rig
+    100050: Macaw_LFingerCC_Rig
+    100052: Macaw_LFingerCCC_Rig
+    100054: Macaw_LFingerCCCC_Rig
+    100056: Macaw_LFingerCCCCC_Rig
+    100058: Macaw_LFingerD_Rig
+    100060: Macaw_LFingerDD_Rig
+    100062: Macaw_LFingerDDD_Rig
+    100064: Macaw_LFingerDDDD_Rig
+    100066: Macaw_LFingerDDDDD_Rig
+    100068: Macaw_RFingerA_Rig
+    100070: Macaw_RFingerAA_Rig
+    100072: Macaw_RFingerAAA_Rig
+    100074: Macaw_RFingerAAAA_Rig
+    100076: Macaw_RFingerAAAAA_Rig
+    100078: Macaw_RFingerB_Rig
+    100080: Macaw_RFingerBB_Rig
+    100082: Macaw_RFingerBBB_Rig
+    100084: Macaw_RFingerC_Rig
+    100086: Macaw_RFingerCC_Rig
+    100088: Macaw_RFingerCCC_Rig
+    100090: Macaw_RFingerCCCC_Rig
+    100092: Macaw_RFingerCCCCC_Rig
+    100094: Macaw_RFingerD_Rig
+    100096: Macaw_RFingerDD_Rig
+    100098: Macaw_RFingerDDD_Rig
+    100100: Macaw_RFingerDDDD_Rig
+    100102: Macaw_RFingerDDDDD_Rig
+    100104: Macaw_RightLeg_Rig
+    100106: Macaw_RightLegA_Rig
+    100108: Macaw_Root_Rig
+    100110: Macaw_Tail_Rig
+    100112: Macaw_TailA_Rig
+    100114: Macaw_TailB_Rig
+    100116: Macaw_TailC_Rig
+    100118: Macaw_Upper_Rig
+    400000: //RootNode
+    400002: AmazonForest_Macaw_Mdl
+    400004: joint4
+    400006: joint5
+    400008: joint51
+    400010: joint52
+    400012: joint53
+    400014: joint54
+    400016: joint55
+    400018: joint56
+    400020: joint57
+    400022: joint58
+    400024: joint6
+    400026: Macaw_Body_Rig
+    400028: Macaw_LeftLeg_Rig
+    400030: Macaw_LeftLegA_Rig
+    400032: Macaw_LFingerA_Rig
+    400034: Macaw_LFingerAA_Rig
+    400036: Macaw_LFingerAAA_Rig
+    400038: Macaw_LFingerAAAA_Rig
+    400040: Macaw_LFingerAAAAA_Rig
+    400042: Macaw_LFingerB_Rig
+    400044: Macaw_LFingerBB_Rig
+    400046: Macaw_LFingerBBB_Rig
+    400048: Macaw_LFingerC_Rig
+    400050: Macaw_LFingerCC_Rig
+    400052: Macaw_LFingerCCC_Rig
+    400054: Macaw_LFingerCCCC_Rig
+    400056: Macaw_LFingerCCCCC_Rig
+    400058: Macaw_LFingerD_Rig
+    400060: Macaw_LFingerDD_Rig
+    400062: Macaw_LFingerDDD_Rig
+    400064: Macaw_LFingerDDDD_Rig
+    400066: Macaw_LFingerDDDDD_Rig
+    400068: Macaw_RFingerA_Rig
+    400070: Macaw_RFingerAA_Rig
+    400072: Macaw_RFingerAAA_Rig
+    400074: Macaw_RFingerAAAA_Rig
+    400076: Macaw_RFingerAAAAA_Rig
+    400078: Macaw_RFingerB_Rig
+    400080: Macaw_RFingerBB_Rig
+    400082: Macaw_RFingerBBB_Rig
+    400084: Macaw_RFingerC_Rig
+    400086: Macaw_RFingerCC_Rig
+    400088: Macaw_RFingerCCC_Rig
+    400090: Macaw_RFingerCCCC_Rig
+    400092: Macaw_RFingerCCCCC_Rig
+    400094: Macaw_RFingerD_Rig
+    400096: Macaw_RFingerDD_Rig
+    400098: Macaw_RFingerDDD_Rig
+    400100: Macaw_RFingerDDDD_Rig
+    400102: Macaw_RFingerDDDDD_Rig
+    400104: Macaw_RightLeg_Rig
+    400106: Macaw_RightLegA_Rig
+    400108: Macaw_Root_Rig
+    400110: Macaw_Tail_Rig
+    400112: Macaw_TailA_Rig
+    400114: Macaw_TailB_Rig
+    400116: Macaw_TailC_Rig
+    400118: Macaw_Upper_Rig
+    2100000: lambert2
+    4300000: AmazonForest_Macaw_Mdl
+    7400000: MacawFlap
+    7400002: Macaw_Idle
+    9500000: //RootNode
+    13700000: AmazonForest_Macaw_Mdl
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MacawFlap
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Macaw_Idle
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

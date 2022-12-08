@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MenuAnimais_100" size="100.000000 50.000000" />
+    <ImageTarget name="MenuAcao_100" size="100.000000 50.000000" />
+    <ImageTarget name="Scenery" size="100.000000 74.504951" />
+    <ImageTarget name="ActionsMenu" size="100.000000 53.753349" />
+    <ImageTarget name="AnimalsMenu" size="100.000000 53.815262" />
+    <ImageTarget name="MenuAnimais" size="50.000000 25.000000" />
+    <ImageTarget name="MenuAcao" size="50.000000 25.000000" />
+    <ImageTarget name="Cenario" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>

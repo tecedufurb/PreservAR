@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 63b881dcb8396cd4cbee5401bf0cdc47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AmazonForest_Frog_Mdl
+    100004: Frog_Head_Rig
+    100006: Frog_HeadA_Rig
+    100008: Frog_LefttHand_Rig
+    100010: Frog_LefttHandA_Rig
+    100012: Frog_LefttHandB_Rig
+    100014: Frog_LefttHandC_Rig
+    100016: Frog_LefttLeg_Rig
+    100018: Frog_LefttLegA_Rig
+    100020: Frog_LefttLegB_Rig
+    100022: Frog_LefttLegC_Rig
+    100024: Frog_LefttLegD_Rig
+    100026: Frog_LegLFingerA_Rig
+    100028: Frog_LegLFingerAA_Rig
+    100030: Frog_LegLFingerB_Rig
+    100032: Frog_LegLFingerBB_Rig
+    100034: Frog_LegLFingerC_Rig
+    100036: Frog_LegLFingerCC_Rig
+    100038: Frog_LegLFingerD_Rig
+    100040: Frog_LegLFingerDD_Rig
+    100042: Frog_LegLFingerE_Rig
+    100044: Frog_LegLFingerEE_Rig
+    100046: Frog_LegRFingerA_Rig
+    100048: Frog_LegRFingerAA_Rig
+    100050: Frog_LegRFingerB_Rig
+    100052: Frog_LegRFingerBB_Rig
+    100054: Frog_LegRFingerC_Rig
+    100056: Frog_LegRFingerCC_Rig
+    100058: Frog_LegRFingerD_Rig
+    100060: Frog_LegRFingerDD_Rig
+    100062: Frog_LegRFingerE_Rig
+    100064: Frog_LegRFingerEE_Rig
+    100066: Frog_LFingerA_Rig
+    100068: Frog_LFingerAA_Rig
+    100070: Frog_LFingerB_Rig
+    100072: Frog_LFingerBB_Rig
+    100074: Frog_LFingerC_Rig
+    100076: Frog_LFingerCC_Rig
+    100078: Frog_LFingerD_Rig
+    100080: Frog_LFingerDD_Rig
+    100082: Frog_Neck_Rig
+    100084: Frog_RFingerA_Rig
+    100086: Frog_RFingerAA_Rig
+    100088: Frog_RFingerB_Rig
+    100090: Frog_RFingerBB_Rig
+    100092: Frog_RFingerC_Rig
+    100094: Frog_RFingerCC_Rig
+    100096: Frog_RFingerD_Rig
+    100098: Frog_RFingerDD_Rig
+    100100: Frog_RightHand_Rig
+    100102: Frog_RightHandA_Rig
+    100104: Frog_RightHandB_Rig
+    100106: Frog_RightHandC_Rig
+    100108: Frog_RightLeg_Rig
+    100110: Frog_RightLegA_Rig
+    100112: Frog_RightLegB_Rig
+    100114: Frog_RightLegC_Rig
+    100116: Frog_RightLegC_Rig 1
+    100118: Frog_Root_Rig
+    100120: Frog_Upper_Rig
+    100122: Frog_UpperA_Rig
+    400000: //RootNode
+    400002: AmazonForest_Frog_Mdl
+    400004: Frog_Head_Rig
+    400006: Frog_HeadA_Rig
+    400008: Frog_LefttHand_Rig
+    400010: Frog_LefttHandA_Rig
+    400012: Frog_LefttHandB_Rig
+    400014: Frog_LefttHandC_Rig
+    400016: Frog_LefttLeg_Rig
+    400018: Frog_LefttLegA_Rig
+    400020: Frog_LefttLegB_Rig
+    400022: Frog_LefttLegC_Rig
+    400024: Frog_LefttLegD_Rig
+    400026: Frog_LegLFingerA_Rig
+    400028: Frog_LegLFingerAA_Rig
+    400030: Frog_LegLFingerB_Rig
+    400032: Frog_LegLFingerBB_Rig
+    400034: Frog_LegLFingerC_Rig
+    400036: Frog_LegLFingerCC_Rig
+    400038: Frog_LegLFingerD_Rig
+    400040: Frog_LegLFingerDD_Rig
+    400042: Frog_LegLFingerE_Rig
+    400044: Frog_LegLFingerEE_Rig
+    400046: Frog_LegRFingerA_Rig
+    400048: Frog_LegRFingerAA_Rig
+    400050: Frog_LegRFingerB_Rig
+    400052: Frog_LegRFingerBB_Rig
+    400054: Frog_LegRFingerC_Rig
+    400056: Frog_LegRFingerCC_Rig
+    400058: Frog_LegRFingerD_Rig
+    400060: Frog_LegRFingerDD_Rig
+    400062: Frog_LegRFingerE_Rig
+    400064: Frog_LegRFingerEE_Rig
+    400066: Frog_LFingerA_Rig
+    400068: Frog_LFingerAA_Rig
+    400070: Frog_LFingerB_Rig
+    400072: Frog_LFingerBB_Rig
+    400074: Frog_LFingerC_Rig
+    400076: Frog_LFingerCC_Rig
+    400078: Frog_LFingerD_Rig
+    400080: Frog_LFingerDD_Rig
+    400082: Frog_Neck_Rig
+    400084: Frog_RFingerA_Rig
+    400086: Frog_RFingerAA_Rig
+    400088: Frog_RFingerB_Rig
+    400090: Frog_RFingerBB_Rig
+    400092: Frog_RFingerC_Rig
+    400094: Frog_RFingerCC_Rig
+    400096: Frog_RFingerD_Rig
+    400098: Frog_RFingerDD_Rig
+    400100: Frog_RightHand_Rig
+    400102: Frog_RightHandA_Rig
+    400104: Frog_RightHandB_Rig
+    400106: Frog_RightHandC_Rig
+    400108: Frog_RightLeg_Rig
+    400110: Frog_RightLegA_Rig
+    400112: Frog_RightLegB_Rig
+    400114: Frog_RightLegC_Rig
+    400116: Frog_RightLegC_Rig 1
+    400118: Frog_Root_Rig
+    400120: Frog_Upper_Rig
+    400122: Frog_UpperA_Rig
+    2100000: phongE1
+    4300000: AmazonForest_Frog_Mdl
+    7400000: Take 002
+    7400002: Take 001
+    9500000: //RootNode
+    13700000: AmazonForest_Frog_Mdl
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 185.224
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
